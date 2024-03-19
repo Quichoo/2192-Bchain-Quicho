@@ -1,0 +1,2 @@
+
+The EtherWallet contract allows the owner to store and withdraw Ether. It ensures only the owner can withdraw funds and includes a fallback function for receiving Ether. While it provides basic functionality, additional security measures and gas considerations should be addressed for real-world use.
